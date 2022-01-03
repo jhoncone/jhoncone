@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**jhoncone/jhoncone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hola bienvenido a mi repositorio
 <div align="center">
   <a href="https://github.com/jhoncone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoncone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

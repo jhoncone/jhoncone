@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hola bienvenido a mi repositorio
+Hola bienvenido a mi perfil
 <div align="center">
   <a href="https://github.com/jhoncone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhoncone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
